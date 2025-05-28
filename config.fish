@@ -24,4 +24,3 @@ end
 
 
 # alias
-alias cat "bat"
